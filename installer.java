@@ -15,7 +15,7 @@ public class installer {
     private static final String INSTALL_DIRECTORY = ".java-compiler-scripts-manager";
 
     public static void main(String[] args) {
-        System.out.println("Добро пожаловать в инсталлятор Java Compiler Scripts Manager.");
+        System.out.println("Добро пожаловать в инсталлятор Java Compiler Scripts Manager Setup Installer.");
         System.out.println("Если вы готовы к установке, введите команду \"javac  start install\"");
         System.out.println("Для запуска мастера: javac installer.java, затем java installer");
         System.out.print("> ");
