@@ -18,6 +18,7 @@ public class uninstall {
 
     public static void main(String[] args) {
         System.out.println("Java Compiler Scripts Manager Setup Uninstall (JCSM Setup Uninstall)");
+        System.out.println("Добро пожаловать в деинсталлятор компилятора");
         try {
             if (!confirmUninstall()) {
                 return;
